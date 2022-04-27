@@ -1,0 +1,10 @@
+C:\Users\aesqu\OneDrive\Desktop\Other Lang\AdvancedProgramming\Sum21\AEsquivelA2_3\AEsquivelA2_3\bin\Debug\AEsquivelA2_3.exe.config
+C:\Users\aesqu\OneDrive\Desktop\Other Lang\AdvancedProgramming\Sum21\AEsquivelA2_3\AEsquivelA2_3\bin\Debug\AEsquivelA2_3.exe
+C:\Users\aesqu\OneDrive\Desktop\Other Lang\AdvancedProgramming\Sum21\AEsquivelA2_3\AEsquivelA2_3\bin\Debug\AEsquivelA2_3.pdb
+C:\Users\aesqu\OneDrive\Desktop\Other Lang\AdvancedProgramming\Sum21\AEsquivelA2_3\AEsquivelA2_3\obj\Debug\AEsquivelA2_3.frmMain.resources
+C:\Users\aesqu\OneDrive\Desktop\Other Lang\AdvancedProgramming\Sum21\AEsquivelA2_3\AEsquivelA2_3\obj\Debug\AEsquivelA2_3.Properties.Resources.resources
+C:\Users\aesqu\OneDrive\Desktop\Other Lang\AdvancedProgramming\Sum21\AEsquivelA2_3\AEsquivelA2_3\obj\Debug\AEsquivelA2_3.csproj.GenerateResource.cache
+C:\Users\aesqu\OneDrive\Desktop\Other Lang\AdvancedProgramming\Sum21\AEsquivelA2_3\AEsquivelA2_3\obj\Debug\AEsquivelA2_3.csproj.CoreCompileInputs.cache
+C:\Users\aesqu\OneDrive\Desktop\Other Lang\AdvancedProgramming\Sum21\AEsquivelA2_3\AEsquivelA2_3\obj\Debug\AEsquivelA2_3.exe
+C:\Users\aesqu\OneDrive\Desktop\Other Lang\AdvancedProgramming\Sum21\AEsquivelA2_3\AEsquivelA2_3\obj\Debug\AEsquivelA2_3.pdb
+C:\Users\aesqu\OneDrive\Desktop\Other Lang\AdvancedProgramming\Sum21\AEsquivelA2_3\AEsquivelA2_3\obj\Debug\AEsquivelA2_3.csproj.AssemblyReference.cache
